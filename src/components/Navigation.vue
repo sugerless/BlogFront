@@ -1,5 +1,5 @@
 <template>
-  <!-- 导航 <-->
+  <!-- 导航 -->
   <!--  -->
   <nav class="navbar navbar-expand-lg bg-light navbar-light">
     <a class="navbar-brand" href="index.html">{{blogname}}</a>
