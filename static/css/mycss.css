@@ -1,0 +1,98 @@
+.dropdown-item{
+  font-size: 16px;
+}
+.dropdown-item:hover{
+  background-color: transparent;
+}
+.dropdown-menu{
+  background-color: #eeeeee;
+  border-style: none;
+}
+
+.navbar-brand{
+  margin-left: 30px;
+  font-size: 35px;
+}
+
+.nav-item{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.nav-link{
+  font-size: 16px;
+}
+
+.carousel{
+  margin-top: -88px;
+  z-index: 1;
+  height: 680px;
+}
+
+.navbar-nav{
+  margin-left: 150px;
+  margin-right: 120px;
+}
+
+.btn{
+  background-color:transparent;
+}
+nav.navbar{
+  width: auto;
+  height: 80px;
+  border-style: none;
+  padding: 0px 0px 0px 0px;
+
+}
+.navbar-brand,.navbar-nav{
+  background-color:transparent;
+  position:absolute;
+  visibility:visible;
+  z-index: 2;
+}
+
+.share{
+  margin-left: 1160px;
+  margin-bottom: 20px;
+  position:absolute;
+  visibility:visible;
+  z-index: 2;
+}
+
+.share-box{
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  margin-right: 16px;
+  vertical-align: middle;
+  background: url(../photo/detail.png) no-repeat;
+  background-position-y:-235px;
+}
+
+.share-sina{
+  background-position-x:-11px;
+}
+
+.share-wechat{
+  background-position-x:-41px;
+}
+
+.share-qzone{
+  background-position-x:-71px;
+}
+
+.share-flower{
+  background-position-x:-101px;
+}
+
+.share a:hover{
+  background-position-y:-206px;
+}
+
+.artnav{
+  background:url(../photo/fengjing4.jpg) no-repeat;
+
+}
+body{
+  background-color: #eeeeee;
+}
